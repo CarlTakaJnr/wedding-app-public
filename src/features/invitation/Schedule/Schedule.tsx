@@ -27,7 +27,7 @@ const Schedule: React.FC = () => {
 					</tr>
 					<tr>
 						<td>2:30 pm</td>
-						<td>Toasts & Cake Cutting</td>
+						<td>Cake</td>
 					</tr>
 				</tbody>
 			</table>

@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import Invitation from "./pages/Invitation/Invitation";
 import Home from "./pages/Home/Home";
+import "./App.css";
 
 function App() {
 	return (
