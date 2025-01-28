@@ -1,0 +1,51 @@
+@import url("lib/Fonts/fonts.css");
+
+.RSVPSection {
+	text-align: center;
+	max-width: 600px;
+	width: 100%;
+
+	margin: 50px auto;
+}
+
+.RSVPTextBox h3 {
+	text-align: center;
+	font-family: "EB-Garamond-Title";
+	font-size: 30px;
+	font-weight: 600;
+	margin: 10px;
+}
+
+.RSVPTextBox textarea {
+	max-width: 415px;
+	width: 100%;
+	height: 150px;
+	resize: none;
+	font-family: "EB-Garamond-Title";
+	letter-spacing: 1px;
+	color: rgb(37, 50, 61);
+	font-size: 19px;
+	font-weight: 400;
+	font-style: normal;
+	background-color: rgb(255, 255, 255) !important;
+	border-color: rgb(37, 50, 61) !important;
+	padding: 8px 12px 4px 10px;
+	resize: none;
+	transition-property: border-color;
+}
+
+.RSVPSection button {
+	background-color: #5a5450;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	font-family: "mediaPro";
+	font-size: 1.5rem;
+	cursor: pointer;
+
+	position: relative;
+	border-radius: 25px;
+	margin: 20px 10px 0px;
+
+	min-width: 200px;
+}

@@ -1,0 +1,7 @@
+{
+	"short_name": "Wedding Invite",
+	"name": "Wedding Invitation Public",
+	"icons": [],
+	"start_url": ".",
+	"display": "standalone"
+}

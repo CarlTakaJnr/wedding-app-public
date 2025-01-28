@@ -1,0 +1,133 @@
+@import url("lib/Fonts/fonts.css");
+
+.invite-section .activeButton {
+	background-color: rgb(76, 112, 77);
+}
+
+.invite-section-container {
+	background-color: #faede0;
+	padding: 0 3rem;
+}
+
+.invite-section {
+	position: relative;
+	min-height: 100vh;
+	max-width: 1200px;
+	width: 100%;
+	margin: 0 auto;
+	background-color: #faede0;
+	color: #5a5450;
+	overflow: visible;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	z-index: 1;
+}
+
+.invite-section img {
+	max-width: 600px;
+	max-height: 300px;
+	width: auto;
+	height: auto;
+	margin: 10px;
+}
+
+.date {
+	font-size: 30px;
+	padding: 30px 0;
+	text-align: center;
+}
+
+@media (min-width: 600px) {
+	.names h1 {
+		font-family: "BrittanySignature";
+		font-size: 84px;
+		font-weight: 400;
+		margin-bottom: 15px;
+		line-height: 7rem;
+		white-space: nowrap;
+	}
+
+	.date {
+		font-size: 30px;
+		padding: 30px 0 20px;
+		text-align: center;
+		white-space: nowrap;
+	}
+
+	.timeTo {
+		font-size: 24px;
+		font-weight: 700;
+		white-space: nowrap;
+	}
+}
+
+@media (max-width: 600px) {
+	.names h1 {
+		font-family: "BrittanySignature";
+		font-size: 13vw;
+		font-weight: 400;
+		margin-bottom: 15px;
+		line-height: 7rem;
+		white-space: nowrap;
+	}
+
+	.date {
+		font-size: 4.65vw;
+		padding: 30px 0 20px;
+		text-align: center;
+		white-space: nowrap;
+	}
+
+	.timeTo {
+		font-size: 3.72vw;
+		font-weight: 700;
+		white-space: nowrap;
+	}
+}
+
+.invite-text {
+	width: 100%;
+	max-width: 800px;
+	text-align: left;
+	left: 60px;
+	top: 100px;
+	font-family: "mediaPro";
+	margin: 50px 0;
+}
+
+.invite-text p {
+	margin: 5px;
+}
+
+.RSVPButtons {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.invite-section button {
+	background-color: #5a5450;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	font-family: "mediaPro";
+	font-size: 1.5rem;
+	cursor: pointer;
+	position: relative;
+	border-radius: 25px;
+	margin: 20px 10px 0;
+	min-width: 200px;
+}
+
+.RSVPSection {
+	text-align: center;
+	max-width: 600px;
+	width: 100%;
+}
+
+.RSVPTextBox h3 {
+	text-align: left;
+	font-family: "EB-Garamond-Title";
+	font-weight: 400;
+	margin: 0;
+}

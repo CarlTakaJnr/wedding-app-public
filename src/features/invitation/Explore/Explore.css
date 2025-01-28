@@ -1,0 +1,16 @@
+@import url("lib/Fonts/fonts.css");
+
+.centered-list {
+	padding: 0;
+	text-align: center;
+}
+
+.explore-container {
+	padding: 0 3rem;
+}
+
+.explore-container h1 {
+	font-family: "EB-Garamond-Title";
+	text-align: center;
+	font-weight: 600;
+}

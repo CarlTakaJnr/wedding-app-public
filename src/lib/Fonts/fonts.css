@@ -1,0 +1,48 @@
+@font-face {
+	font-family: "LeJourScript";
+	src: url("./LeJourScript.otf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "LeJourSerif";
+	src: url("./LeJourSerif.otf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Muli-Regular";
+	src: url("./Muli-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Muli-Light";
+	src: url("./Muli-Light.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Script-Calligraphy";
+	src: url("./PerfectoCalligraphy.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "EB-Garamond-Title";
+	src: url("./EBGaramond.otf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "BrittanySignature";
+	src: url("./BrittanySignature.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}

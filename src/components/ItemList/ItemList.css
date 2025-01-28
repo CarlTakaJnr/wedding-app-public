@@ -1,0 +1,25 @@
+@import url("lib/Fonts/fonts.css");
+
+.itemListcontainer {
+	max-width: 750px;
+	margin: 0 auto 150px;
+}
+
+.itemListcontainer h2,
+.itemContent h3 {
+	text-align: center;
+	margin-bottom: 0;
+	font-family: EB-Garamond-Title;
+	letter-spacing: 2px;
+}
+
+.itemListcontainer h5 {
+	margin-top: 0;
+	text-align: center;
+	color: #5e9a8e;
+}
+
+.itemContent p {
+	margin-top: 0;
+	text-align: center;
+}
