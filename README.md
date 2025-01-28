@@ -4,6 +4,10 @@ This project is an example version of a wedding website that I originally create
 
 I will unlikely be doing much to maintain this repo as I work on other projects, there's a lot of places i'd like to improve, such as adding tests, some small ui improvements, adding some better linting checks and various other things.
 
+The home page and authorised pages haven't been utilised or developed, but I might be adding them in the future.
+
+When running this website, you need to use /invite/anyString. When connected to a firestore database, the anystring will correspond to an invite id, if anyone wants help with this, don't be afraid to ask.
+
 ## Available Scripts
 
 In the project directory, you can run:
