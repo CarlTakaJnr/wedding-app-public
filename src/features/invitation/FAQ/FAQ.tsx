@@ -34,8 +34,8 @@ const FAQ = () => {
 
 				<h3>Who should I contact if I have questions?</h3>
 				<p>
-					Please reach out to our main point of contact for the event. We will
-					provide contact details closer to the date.
+					Please reach out to our main point of contact for the event. De'Arna's
+					mobile number is 0224593093 for any questions related to the wedding.
 				</p>
 			</ItemList>
 		</div>

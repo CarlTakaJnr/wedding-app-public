@@ -14,15 +14,15 @@ const Schedule: React.FC = () => {
 						<td>Guest Arrival</td>
 					</tr>
 					<tr>
-						<td>12:30 pm</td>
+						<td>12:00 pm</td>
 						<td>Ceremony</td>
 					</tr>
 					<tr>
-						<td>1:00 pm</td>
-						<td>Photos</td>
+						<td>12:45 pm</td>
+						<td>Photos & Mingle</td>
 					</tr>
 					<tr>
-						<td>1:30 pm</td>
+						<td>2:00 pm</td>
 						<td>Lunch</td>
 					</tr>
 					<tr>
